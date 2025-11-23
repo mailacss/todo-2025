@@ -13,7 +13,7 @@
 	<groupId>dev.mcss</groupId>
 	<artifactId>todo-list-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>To Do List</name>
+	<name>ToDoList</name>
 	<description>Backend API for todo list</description>
 	<url/>
 
